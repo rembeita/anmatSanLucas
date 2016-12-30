@@ -1,0 +1,1 @@
+https://servicios.pami.org.ar/trazamed.WebService?wsdl
